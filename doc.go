@@ -34,7 +34,7 @@ UDP Packet Conn
 
 Example simple udp server with reuseport enabled:
 
-package main
+	package main
 
 	import (
 		"fmt"
